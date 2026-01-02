@@ -1,0 +1,218 @@
+{
+  "main": {
+    "id": "1e67a766c38f0982",
+    "type": "split",
+    "children": [
+      {
+        "id": "45147aaf4a766e2e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6c0ee163b0e378f4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Desarrollo Profesional/Entrevista.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Entrevista"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ea0bf2ac972dfed0",
+    "type": "split",
+    "children": [
+      {
+        "id": "db21c8aa053b6d31",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d42ed58fb1487f1c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "181b8cbfcab6a936",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "294c71212708d001",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "da325632cf8f11ad",
+    "type": "split",
+    "children": [
+      {
+        "id": "7328ed457fde6206",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c98c979e72656cf5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "9fa452a883e3aebe",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "b7a32a53f6e25b8d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "28f53d1347981ff4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "6c0ee163b0e378f4",
+  "lastOpenFiles": [
+    "Desarrollo Profesional/Networking.md",
+    "Desarrollo Profesional/Entrevista.md",
+    "Desarrollo Profesional/Marca Personal.md",
+    "Desarrollo Profesional/Mi rol como publicista digital.md",
+    "Analisis de Datos/Tutorial Analisis de datos (parte 1).pdf",
+    "Desarrollo Profesional",
+    "Analisis de Datos/Analisis de datos.md",
+    "Analisis de Datos/Dashboards.md",
+    "Analisis de Datos/Excel/Tips de creacion de Excel 3.md",
+    "Analisis de Datos/Excel/Tips de creacion de Excel 2.md",
+    "Analisis de Datos/Excel/Tips de creacion de Excel 1.md",
+    "Analisis de Datos/Excel/Excel.md",
+    "Analisis de Datos/Excel",
+    "ADS/Meta Ads/Meta Blueprint.md",
+    "Analisis de Datos",
+    "ADS/Tiktok Ads/Learning Phase, Budget y Bidding.md",
+    "ADS/Meta Ads",
+    "ADS/Tiktok Ads/TikTok Ads Manager.md",
+    "ADS/Tiktok Ads/Introducción a TikTok for Business.md",
+    "ADS/Snapchat Ads/Optimización de Campañas.md",
+    "ADS/Tiktok Ads",
+    "ADS/Snapchat Ads/Practicas Creativas - Recomendaciones.md",
+    "ADS/Snapchat Ads/Introducción al Ads Manager.md",
+    "ADS/Snapchat Ads/Publicidad en Snapchat.md",
+    "ADS/Snapchat Ads/Generacion Snapchat.md",
+    "ADS/Snapchat Ads/Introduccion a Snapchat.md",
+    "ADS/X Ads/Por que X - Por que ahora/La historia de innovación de X.md",
+    "ADS/Snapchat Ads",
+    "ADS/X Ads/Por que X - Por que ahora/Empezar a medir en X.md",
+    "ADS/X Ads/Por que X - Por que ahora/Empecemos con Performance Advertising.md",
+    "ADS/X Ads/Por que X - Por que ahora/Crea una campaña de clicks en un Website.md",
+    "ADS/X Ads/Por que X - Por que ahora/Crea una campaña publicitaria en la aplicacion movil.md",
+    "ADS/LinkedIn Ads/LinkedIn Learning.md",
+    "ADS/X Ads/Por que X - Por que ahora",
+    "ADS/X Ads",
+    "ADS/LinkedIn Ads",
+    "Redes Sociales/IMG/Pasted image 20250518011656.png",
+    "Personalidad de Marca/IMG/Pasted image 20250517202921.png",
+    "Introducción a Marketing Digital/IMG/Pasted image 20250513191614.png",
+    "Introducción a Marketing Digital/IMG/Pasted image 20250513185659.png",
+    "Introducción a Marketing Digital/IMG/Pasted image 20250513183802.png",
+    "Introducción a Marketing Digital/IMG/Pasted image 20250513182915.png",
+    "Contexto mundial de la publicidad digital/IMG/Pasted image 20250513182006.png",
+    "Contexto mundial de la publicidad digital/IMG/Pasted image 20250513181323.png",
+    "WEB/REACT/DESCRIBING THE UI - 1/WRITING MARKUP WITH JSX/Pasted image 20250429161044.png",
+    "WEB/REACT/DESCRIBING THE UI - 1/WRITING MARKUP WITH JSX/Pasted image 20250429161027.png",
+    "WEB/REACT/BASIC/Untitled.canvas"
+  ]
+}

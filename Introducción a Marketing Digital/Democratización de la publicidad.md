@@ -1,0 +1,6 @@
+
+Internet ha promovido la libertad de expresión y la democratización al permitir que cualquier persona con acceso a dispositivos y conexión pueda compartir opiniones, debatir y consumir contenido. Las redes sociales revolucionaron la comunicación, especialmente entre los jóvenes, y también transformaron la industria publicitaria, al permitir a empresas y emprendedores crear anuncios dirigidos a públicos específicos, según intereses reales.
+
+La publicidad digital ha mejorado la segmentación, facilitando que marcas lleguen a los clientes adecuados. Además, las redes sociales permiten una conexión global, superando barreras de idioma mediante traducción e inteligencia artificial, y aumentando la disponibilidad de contenido.
+
+Las plataformas permiten una publicidad interactiva, donde los usuarios pueden comentar y reaccionar, proporcionando información valiosa para las marcas. Además, la publicidad en redes sociales es más rentable y accesible, permitiendo que incluso pequeños negocios puedan generar gran impacto con una baja inversión. Las plataformas también ofrecen reportes fáciles de entender, lo que facilita el análisis de resultados.
